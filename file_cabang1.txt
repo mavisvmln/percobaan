@@ -4,4 +4,6 @@ ini hanya file percobaan membuat cabang pada github
 
 Baris baru tambahan
 New line for conflict test!!!
-- perubahan pada cabang_1
+
+- baris untuk cabang 2
+
